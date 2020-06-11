@@ -3,7 +3,7 @@ from yahoo_fin import stock_info as stk
 from zalgo_text import zalgo
 
 
-TOKE = 'NTcyNDUwMzAxNTEzMDM5ODgy.XXf77A.13TG7XJoGkng4se3kOJk2DvKb5s'
+TOKE = ''
 run = False
 client = discord.Client()
 
